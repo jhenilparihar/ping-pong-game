@@ -1,4 +1,7 @@
 # Ping Pong
 Ping Pong Game in Turtle Python using Object-Oriented Programming
+<br>
 To Play Game run main.py 
-Don't forget to star this repository
+<br>
+
+##### Don't forget to star this repository
