@@ -8,7 +8,7 @@ screen = Screen()
 screen.tracer(0)
 screen.setup(width=800, height=600)
 screen.bgcolor("black")
-screen.title("My PING-PONG Game")
+screen.title("PING PONG Game")
 
 paddle1 = Paddle((350, 0))
 paddle2 = Paddle((-350, 0))
