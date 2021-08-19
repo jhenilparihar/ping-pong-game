@@ -15,7 +15,7 @@ class ScoreBoard(Turtle):
 
     def update_scoreboard(self):
         self.clear()
-        self.goto(-50, 200)
+        self.goto(-70, 200)
         self.write(f"{self.paddle1_score}", move=False, align=ALIGNMENT, font=FONT)
-        self.goto(50, 200)
+        self.goto(70, 200)
         self.write(f"{self.paddle2_score}", move=False, align=ALIGNMENT, font=FONT)
