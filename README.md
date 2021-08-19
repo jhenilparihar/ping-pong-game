@@ -1,2 +1,2 @@
-# Ping-Pong-game
-Ping Pong Game in Python using Obeject-Oriented Programming
+# Ping Pong
+Ping Pong Game in Turtle Python using Object-Oriented Programming
