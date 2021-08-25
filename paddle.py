@@ -6,7 +6,7 @@ class Paddle(Turtle):
         super().__init__()
         self.shape("square")
         self.color("white")
-        self.setheading(90
+        self.setheading(90)
         self.shapesize(1, 5)
         self.penup()
         self.goto(position)
