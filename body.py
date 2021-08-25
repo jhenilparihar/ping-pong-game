@@ -13,7 +13,7 @@ class GameBody(Turtle):
     def create_game(self):
         self.pencolor("white")
         self.pensize(3)
-        self.right(90
+        self.right(90)
         for i in range(59):
             if i % 2 == 0:
                 self.penup()
