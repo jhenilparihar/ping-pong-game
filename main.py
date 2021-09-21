@@ -10,6 +10,7 @@ screen.tracer(0)
 screen.setup(width=800, height=600)
 screen.bgcolor("black")
 screen.title("PING PONG Game")
+screen._root.iconbitmap("icon.ico")
 
 body = GameBody()
 
