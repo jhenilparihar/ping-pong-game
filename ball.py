@@ -20,7 +20,8 @@ class Ball(Turtle):
 
     def bounce_paddle(self):
         self.x *= -1
-        self.move_speed *= 0.9
+        if self.move_speed > 0.016:
+            self.move_speed *= 0.9
 
     def reset(self):
         self.goto(0, 0)
